@@ -275,6 +275,7 @@
 ### Тестирование
 <img width="262" height="333" alt="image" src="https://github.com/user-attachments/assets/20b79d8b-e02b-43ff-8c21-00580dd39314" />
 <img width="266" height="312" alt="image" src="https://github.com/user-attachments/assets/974e2ee1-45a7-4b80-86e6-82644c4ac0f7" />
+<img width="279" height="372" alt="image" src="https://github.com/user-attachments/assets/31ff5dd5-1384-4b4f-aaba-0b580864f67e" />
 
 
 ## Задача 4 (№7 из методички)
@@ -290,6 +291,7 @@
 <img width="259" height="137" alt="image" src="https://github.com/user-attachments/assets/dafefc26-9e9f-4411-8d90-e7044815bfe3" />
 <img width="232" height="199" alt="image" src="https://github.com/user-attachments/assets/29fb307a-9a58-49c1-89f8-9086ec1c3340" />
 
+
 ## Задача 5 (№9 из методички)
 ### Текст задачи
 Дана сигнатура метода: `public int[] FindAll(int[] arr, int x)`
@@ -304,4 +306,5 @@
 ### Тестирование
 <img width="241" height="291" alt="image" src="https://github.com/user-attachments/assets/f6a26d54-c1f8-4742-837d-69af868f5024" />
 <img width="253" height="223" alt="image" src="https://github.com/user-attachments/assets/01030e06-808d-45e9-842d-ebfe358f6d07" />
-<img width="222" height="201" alt="image" src="https://github.com/user-attachments/assets/92baa95e-bcdf-4687-a6e1-5b21e6edbd63" />
+<img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/43576743-8d14-452f-9389-2d3cfeca262b" />
+
