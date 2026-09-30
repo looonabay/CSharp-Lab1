@@ -13,6 +13,9 @@
 
 ### Тестирование
 <img width="167" height="92" alt="image" src="https://github.com/user-attachments/assets/aaab09e3-5e8e-4428-8216-077e2ecbfce0" />
+<img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/ef872f75-2b37-46e1-bcbf-a94d093662f3" />
+
+
 
 ## Задача 2 (№3 из методички)
 ### Текст задачи
@@ -24,6 +27,7 @@
 
 ### Тестирование
 <img width="144" height="85" alt="image" src="https://github.com/user-attachments/assets/6df6bb38-4ffa-469f-87fd-2027b36c0b6a" />
+<img width="156" height="91" alt="image" src="https://github.com/user-attachments/assets/d0613c71-ca7d-4323-adb4-dc198b250784" />
 
 
 ## Задача 3 (№5 из методички)
@@ -36,6 +40,7 @@
 
 ### Тестирование
 <img width="167" height="90" alt="image" src="https://github.com/user-attachments/assets/42575d08-8b9d-4e35-abc3-93c5d17921b7" />
+<img width="162" height="88" alt="image" src="https://github.com/user-attachments/assets/4cd7b1cc-fb26-4b53-af9c-8b4c365a6955" />
 
 
 ## Задача 4 (№7 из методички)
@@ -48,6 +53,7 @@
 
 ### Тестирование
 <img width="179" height="127" alt="image" src="https://github.com/user-attachments/assets/bda14b5f-7c46-462c-bf89-47993862a421" />
+<img width="196" height="176" alt="image" src="https://github.com/user-attachments/assets/dbae7c19-aecb-4303-b2e6-dc8d2aa2de53" />
 
 
 ## Задача 5 (№9 из методички)
@@ -60,6 +66,7 @@
 
 ### Тестирование
 <img width="193" height="129" alt="image" src="https://github.com/user-attachments/assets/ec88f2c5-87f3-48c1-b530-1ca86a9f4d0f" />
+<img width="189" height="137" alt="image" src="https://github.com/user-attachments/assets/0194e8b4-38bc-4a8d-a883-3a4e5adf6273" />
 
 
 
@@ -75,6 +82,7 @@
 
 ### Тестирование
 <img width="156" height="95" alt="image" src="https://github.com/user-attachments/assets/359588f7-91ee-4879-a8d3-bd75c04ee383" />
+<img width="138" height="95" alt="image" src="https://github.com/user-attachments/assets/4f599580-5f9f-4eb3-a91d-deb127548cd9" />
 
 
 ## Задача 2 (№3 из методички)
@@ -87,6 +95,7 @@
 
 ### Тестирование
 <img width="163" height="93" alt="image" src="https://github.com/user-attachments/assets/6039a76e-14c2-4008-9248-2eadc4b162f6" />
+<img width="171" height="93" alt="image" src="https://github.com/user-attachments/assets/8e30f329-ae9f-40db-97ea-c039d540bcbd" />
 
 
 ## Задача 3 (№5 из методички)
@@ -102,6 +111,7 @@
 
 ### Тестирование
 <img width="160" height="134" alt="image" src="https://github.com/user-attachments/assets/a3cf7332-c9b8-44d2-a210-0adb4ff2d2b2" />
+<img width="160" height="138" alt="image" src="https://github.com/user-attachments/assets/d3180289-8218-42bb-b8ab-a30eddcde578" />
 
 
 ## Задача 4 (№7 из методички)
@@ -114,6 +124,7 @@
 
 ### Тестирование
 <img width="187" height="106" alt="image" src="https://github.com/user-attachments/assets/90e2bea6-1eec-4af8-89e8-fea7865503b1" />
+<img width="183" height="115" alt="image" src="https://github.com/user-attachments/assets/51f18b52-b252-4558-baf3-5caeddf32ab7" />
 
 
 ## Задача 5 (№9 из методички)
@@ -126,6 +137,7 @@
 
 ### Тестирование
 <img width="266" height="92" alt="image" src="https://github.com/user-attachments/assets/cc3dfdc6-d0ce-4106-906c-67cc37a44add" />
+<img width="267" height="88" alt="image" src="https://github.com/user-attachments/assets/9e688341-2a1a-4ee5-b017-ed7ddca861e7" />
 
 
 
@@ -141,6 +153,7 @@
 
 ### Тестирование
 <img width="160" height="89" alt="image" src="https://github.com/user-attachments/assets/bd1e4ec8-c431-4efe-b21c-877601c42e53" />
+<img width="154" height="91" alt="image" src="https://github.com/user-attachments/assets/a46dd02a-2420-43f5-8c93-412a708b137b" />
 
 
 ## Задача 2 (№3 из методички)
@@ -153,6 +166,7 @@
 
 ### Тестирование
 <img width="141" height="90" alt="image" src="https://github.com/user-attachments/assets/76826240-e6c9-4eb8-b9b3-6430e0250dab" />
+<img width="134" height="95" alt="image" src="https://github.com/user-attachments/assets/356341db-be61-4f62-a0a5-05ec2862844e" />
 
 
 ## Задача 3 (№5 из методички)
@@ -165,6 +179,7 @@
 
 ### Тестирование
 <img width="156" height="96" alt="image" src="https://github.com/user-attachments/assets/f1140f15-98b5-4535-b135-2c3645ff4717" />
+<img width="165" height="92" alt="image" src="https://github.com/user-attachments/assets/154abfd3-94f9-4d20-955e-9059bac9fd4e" />
 
 
 ## Задача 4 (№7 из методички)
@@ -177,6 +192,7 @@
 
 ### Тестирование
 <img width="271" height="203" alt="image" src="https://github.com/user-attachments/assets/5a325f78-37b1-485e-9262-86bad22cce0e" />
+<img width="222" height="135" alt="image" src="https://github.com/user-attachments/assets/264dfced-e4db-4b21-9a78-3c15b933c5ca" />
 
 
 ## Задача 5 (№9 из методички)
@@ -193,6 +209,7 @@
 
 ### Тестирование
 <img width="237" height="155" alt="image" src="https://github.com/user-attachments/assets/740d9885-523d-4552-873e-7140fd8188af" />
+<img width="235" height="182" alt="image" src="https://github.com/user-attachments/assets/fd8d158b-4d9d-445f-8e64-04f6b80d22bf" />
 
 
 
@@ -208,6 +225,7 @@
 
 ### Тестирование
 <img width="237" height="155" alt="image" src="https://github.com/user-attachments/assets/25f6f583-121c-4673-b16b-365ba1b24801" />
+<img width="258" height="223" alt="image" src="https://github.com/user-attachments/assets/75c4f70a-f081-4f8c-ac47-446d27f4c063" />
 
 ## Задача 2 (№3 из методички)
 ### Текст задачи
@@ -223,6 +241,8 @@
 
 ### Тестирование
 <img width="246" height="179" alt="image" src="https://github.com/user-attachments/assets/8941942c-4e09-42c2-a2f5-e89667cc6784" />
+<img width="238" height="176" alt="image" src="https://github.com/user-attachments/assets/e5c15545-1984-4131-9710-b3382d2680dd" />
+
 
 ## Задача 3 (№5 из методички)
 ### Текст задачи
@@ -238,6 +258,8 @@
 
 ### Тестирование
 <img width="262" height="333" alt="image" src="https://github.com/user-attachments/assets/20b79d8b-e02b-43ff-8c21-00580dd39314" />
+<img width="266" height="312" alt="image" src="https://github.com/user-attachments/assets/974e2ee1-45a7-4b80-86e6-82644c4ac0f7" />
+
 
 ## Задача 4 (№7 из методички)
 ### Текст задачи
@@ -249,6 +271,8 @@
 
 ### Тестирование
 <img width="255" height="179" alt="image" src="https://github.com/user-attachments/assets/e58522f4-b3d5-47f8-aac1-aa3a82199065" />
+<img width="259" height="137" alt="image" src="https://github.com/user-attachments/assets/dafefc26-9e9f-4411-8d90-e7044815bfe3" />
+
 
 ## Задача 5 (№9 из методички)
 ### Текст задачи
@@ -263,3 +287,4 @@
 
 ### Тестирование
 <img width="241" height="291" alt="image" src="https://github.com/user-attachments/assets/f6a26d54-c1f8-4742-837d-69af868f5024" />
+<img width="253" height="223" alt="image" src="https://github.com/user-attachments/assets/01030e06-808d-45e9-842d-ebfe358f6d07" />
