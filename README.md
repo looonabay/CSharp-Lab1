@@ -15,6 +15,7 @@
 <img width="167" height="92" alt="image" src="https://github.com/user-attachments/assets/aaab09e3-5e8e-4428-8216-077e2ecbfce0" />
 <img width="162" height="91" alt="image" src="https://github.com/user-attachments/assets/ef872f75-2b37-46e1-bcbf-a94d093662f3" />
 <img width="181" height="90" alt="image" src="https://github.com/user-attachments/assets/19361541-91c2-439d-b999-503b68cd7eb7" />
+<img width="351" height="112" alt="image" src="https://github.com/user-attachments/assets/ce2e7d94-9be3-432e-988f-5f00834bf4f2" />
 
 
 ## Задача 2 
@@ -29,6 +30,7 @@
 <img width="144" height="85" alt="image" src="https://github.com/user-attachments/assets/6df6bb38-4ffa-469f-87fd-2027b36c0b6a" />
 <img width="156" height="91" alt="image" src="https://github.com/user-attachments/assets/d0613c71-ca7d-4323-adb4-dc198b250784" />
 <img width="140" height="84" alt="image" src="https://github.com/user-attachments/assets/a1ec9405-650f-4f33-9ad1-d0c8d86124c5" />
+<img width="354" height="114" alt="image" src="https://github.com/user-attachments/assets/a83dbb72-932e-4d0d-97b6-84bde1f82a27" />
 
 
 ## Задача 3 
@@ -43,6 +45,7 @@
 <img width="167" height="90" alt="image" src="https://github.com/user-attachments/assets/42575d08-8b9d-4e35-abc3-93c5d17921b7" />
 <img width="162" height="88" alt="image" src="https://github.com/user-attachments/assets/4cd7b1cc-fb26-4b53-af9c-8b4c365a6955" />
 <img width="153" height="94" alt="image" src="https://github.com/user-attachments/assets/6280886b-d5c9-4973-8158-2562050271ae" />
+<img width="354" height="114" alt="image" src="https://github.com/user-attachments/assets/687dadbb-c939-4022-87d4-14ace9ee1f8f" />
 
 
 ## Задача 4 
@@ -57,6 +60,7 @@
 <img width="179" height="127" alt="image" src="https://github.com/user-attachments/assets/bda14b5f-7c46-462c-bf89-47993862a421" />
 <img width="196" height="176" alt="image" src="https://github.com/user-attachments/assets/dbae7c19-aecb-4303-b2e6-dc8d2aa2de53" />
 <img width="187" height="180" alt="image" src="https://github.com/user-attachments/assets/90ab523d-c1ce-4c10-b233-a8bdf2cc50b9" />
+<img width="296" height="180" alt="image" src="https://github.com/user-attachments/assets/dcadd1de-a8e3-4192-8d1c-360289e3a3d8" />
 
 
 ## Задача 5 
@@ -71,6 +75,7 @@
 <img width="193" height="129" alt="image" src="https://github.com/user-attachments/assets/ec88f2c5-87f3-48c1-b530-1ca86a9f4d0f" />
 <img width="189" height="137" alt="image" src="https://github.com/user-attachments/assets/0194e8b4-38bc-4a8d-a883-3a4e5adf6273" />
 <img width="187" height="136" alt="image" src="https://github.com/user-attachments/assets/b1725bc7-1cab-4411-8291-3a6de9947299" />
+<img width="281" height="155" alt="image" src="https://github.com/user-attachments/assets/f27b5ab3-2482-4e5c-b30f-bccf499be2c0" />
 
 
 # Задание 2. Условия
@@ -87,6 +92,7 @@
 <img width="156" height="95" alt="image" src="https://github.com/user-attachments/assets/359588f7-91ee-4879-a8d3-bd75c04ee383" />
 <img width="138" height="95" alt="image" src="https://github.com/user-attachments/assets/4f599580-5f9f-4eb3-a91d-deb127548cd9" />
 <img width="162" height="93" alt="image" src="https://github.com/user-attachments/assets/f6f8f42b-b6ff-4fe3-9e37-b3730c170b02" />
+<img width="283" height="109" alt="image" src="https://github.com/user-attachments/assets/6f9f13a6-6d56-4a1b-966a-da99e08d2dbc" />
 
 
 ## Задача 2 
@@ -101,6 +107,7 @@
 <img width="163" height="93" alt="image" src="https://github.com/user-attachments/assets/6039a76e-14c2-4008-9248-2eadc4b162f6" />
 <img width="171" height="93" alt="image" src="https://github.com/user-attachments/assets/8e30f329-ae9f-40db-97ea-c039d540bcbd" />
 <img width="143" height="93" alt="image" src="https://github.com/user-attachments/assets/1acd5c8c-6ac1-4ee6-9f1a-3fae3b3435f1" />
+<img width="274" height="92" alt="image" src="https://github.com/user-attachments/assets/244ace75-2c85-4568-a3b6-2115e030076c" />
 
 
 ## Задача 3
@@ -118,6 +125,7 @@
 <img width="160" height="134" alt="image" src="https://github.com/user-attachments/assets/a3cf7332-c9b8-44d2-a210-0adb4ff2d2b2" />
 <img width="160" height="138" alt="image" src="https://github.com/user-attachments/assets/d3180289-8218-42bb-b8ab-a30eddcde578" />
 <img width="164" height="136" alt="image" src="https://github.com/user-attachments/assets/dfbdaae9-d5de-435d-a4e3-dc58f5e533b8" />
+<img width="296" height="156" alt="image" src="https://github.com/user-attachments/assets/138f7a32-5e8d-4b05-a85a-5b4f97343921" />
 
 
 ## Задача 4 
@@ -132,6 +140,7 @@
 <img width="187" height="106" alt="image" src="https://github.com/user-attachments/assets/90e2bea6-1eec-4af8-89e8-fea7865503b1" />
 <img width="183" height="115" alt="image" src="https://github.com/user-attachments/assets/51f18b52-b252-4558-baf3-5caeddf32ab7" />
 <img width="177" height="111" alt="image" src="https://github.com/user-attachments/assets/69590a6d-d279-4e98-866a-0866e0ea818c" />
+<img width="282" height="133" alt="image" src="https://github.com/user-attachments/assets/a673d646-3991-4044-bdd9-516ca4567579" />
 
 
 ## Задача 5 
@@ -146,6 +155,7 @@
 <img width="266" height="92" alt="image" src="https://github.com/user-attachments/assets/cc3dfdc6-d0ce-4106-906c-67cc37a44add" />
 <img width="267" height="88" alt="image" src="https://github.com/user-attachments/assets/9e688341-2a1a-4ee5-b017-ed7ddca861e7" />
 <img width="265" height="93" alt="image" src="https://github.com/user-attachments/assets/56d18318-c4ee-41ab-956c-3795c6f2995a" />
+<img width="339" height="94" alt="image" src="https://github.com/user-attachments/assets/bb4e9023-bf1b-487f-8400-c5f25b2c6e1e" />
 
 
 
@@ -163,6 +173,7 @@
 <img width="160" height="89" alt="image" src="https://github.com/user-attachments/assets/bd1e4ec8-c431-4efe-b21c-877601c42e53" />
 <img width="154" height="91" alt="image" src="https://github.com/user-attachments/assets/a46dd02a-2420-43f5-8c93-412a708b137b" />
 <img width="161" height="95" alt="image" src="https://github.com/user-attachments/assets/86590b7c-31d7-44b3-a1b6-4e2db54a221a" />
+<img width="277" height="92" alt="image" src="https://github.com/user-attachments/assets/feaf5e96-eaa0-41e8-af5a-895bfa4879bd" />
 
 
 ## Задача 2 
@@ -177,6 +188,7 @@
 <img width="141" height="90" alt="image" src="https://github.com/user-attachments/assets/76826240-e6c9-4eb8-b9b3-6430e0250dab" />
 <img width="134" height="95" alt="image" src="https://github.com/user-attachments/assets/356341db-be61-4f62-a0a5-05ec2862844e" />
 <img width="130" height="69" alt="image" src="https://github.com/user-attachments/assets/97a4ec2d-26f9-4525-8370-5218959d7aed" />
+<img width="390" height="93" alt="image" src="https://github.com/user-attachments/assets/a36c4d09-c907-4e96-948f-a274b346a95e" />
 
 
 ## Задача 3 
@@ -191,6 +203,7 @@
 <img width="156" height="96" alt="image" src="https://github.com/user-attachments/assets/f1140f15-98b5-4535-b135-2c3645ff4717" />
 <img width="165" height="92" alt="image" src="https://github.com/user-attachments/assets/154abfd3-94f9-4d20-955e-9059bac9fd4e" />
 <img width="171" height="93" alt="image" src="https://github.com/user-attachments/assets/884eb886-dcf8-4c6a-83f7-6b8a995d2005" />
+<img width="300" height="88" alt="image" src="https://github.com/user-attachments/assets/24c9fdb2-05f7-436a-a2c9-96bf8ad3970f" />
 
 
 ## Задача 4 
@@ -205,6 +218,7 @@
 <img width="271" height="203" alt="image" src="https://github.com/user-attachments/assets/5a325f78-37b1-485e-9262-86bad22cce0e" />
 <img width="222" height="135" alt="image" src="https://github.com/user-attachments/assets/264dfced-e4db-4b21-9a78-3c15b933c5ca" />
 <img width="219" height="80" alt="image" src="https://github.com/user-attachments/assets/a8992ffd-3e16-4cc8-ab58-2431de406f61" />
+<img width="271" height="135" alt="image" src="https://github.com/user-attachments/assets/76c27049-747c-4fdb-9ca9-0cb3e3a769b1" />
 
 
 ## Задача 5 
@@ -240,6 +254,7 @@
 <img width="237" height="155" alt="image" src="https://github.com/user-attachments/assets/25f6f583-121c-4673-b16b-365ba1b24801" />
 <img width="258" height="223" alt="image" src="https://github.com/user-attachments/assets/75c4f70a-f081-4f8c-ac47-446d27f4c063" />
 <img width="231" height="224" alt="image" src="https://github.com/user-attachments/assets/17b6939d-7fa5-4521-a298-2ea0b70478c9" />
+<img width="332" height="231" alt="image" src="https://github.com/user-attachments/assets/62780978-6b2a-4eee-b159-d3e6c21ca26b" />
 
 
 ## Задача 2 
