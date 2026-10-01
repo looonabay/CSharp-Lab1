@@ -1,17 +1,21 @@
-﻿using System;
+using System;
 
 namespace Lab1
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        private void Main(string[] args)
         {
             Methods lab = new Methods();
 
             // Задача 1
             {
-                Console.WriteLine("введите число x: ");
-                double x = double.Parse(Console.ReadLine());
+                Console.Write("введите число x: ");
+                double x;
+                while (!double.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите корректное число: ");
+                }
 
                 double result = lab.Fraction(x);
 
@@ -21,8 +25,12 @@ namespace Lab1
 
             // Задача 2
             {
-                Console.WriteLine("введите цифру: ");
-                char x = char.Parse(Console.ReadLine());
+                Console.Write("введите цифру: ");
+                char x;
+                while (!char.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите ровно один символ: ");
+                }
 
                 int result = lab.CharToNum(x);
 
@@ -32,8 +40,12 @@ namespace Lab1
 
             // Задача 3
             {
-                Console.WriteLine("введите число: ");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 bool result = lab.Is2Digits(x);
 
@@ -43,14 +55,26 @@ namespace Lab1
 
             // Задача 4
             {
-                Console.WriteLine("введите границу а:");
-                int a = int.Parse(Console.ReadLine());
+                Console.Write("введите границу а: ");
+                int a;
+                while (!int.TryParse(Console.ReadLine(), out a))
+                {
+                    Console.Write("Ошибка! Введите целое число a: ");
+                }
 
-                Console.WriteLine("введите границу b:");
-                int b = int.Parse(Console.ReadLine());
+                Console.Write("введите границу b: ");
+                int b;
+                while (!int.TryParse(Console.ReadLine(), out b))
+                {
+                    Console.Write("Ошибка! Введите целое число b: ");
+                }
 
-                Console.WriteLine("введите число num:");
-                int num = int.Parse(Console.ReadLine());
+                Console.Write("введите число num: ");
+                int num;
+                while (!int.TryParse(Console.ReadLine(), out num))
+                {
+                    Console.Write("Ошибка! Введите целое число num: ");
+                }
 
                 bool result = lab.IsInRange(a, b, num);
                 Console.WriteLine("результат:");
@@ -59,10 +83,28 @@ namespace Lab1
 
             // Задача 5
             {
-                Console.WriteLine("введите числа a,b,c:");
-                int a = int.Parse(Console.ReadLine());
-                int b = int.Parse(Console.ReadLine());
-                int c = int.Parse(Console.ReadLine());
+                Console.WriteLine("введите числа a, b, c:");
+
+                Console.Write("a: ");
+                int a;
+                while (!int.TryParse(Console.ReadLine(), out a))
+                {
+                    Console.Write("Ошибка! Введите целое число a: ");
+                }
+
+                Console.Write("b: ");
+                int b;
+                while (!int.TryParse(Console.ReadLine(), out b))
+                {
+                    Console.Write("Ошибка! Введите целое число b: ");
+                }
+
+                Console.Write("c: ");
+                int c;
+                while (!int.TryParse(Console.ReadLine(), out c))
+                {
+                    Console.Write("Ошибка! Введите целое число c: ");
+                }
 
                 bool result = lab.IsEqual(a, b, c);
 
@@ -72,19 +114,27 @@ namespace Lab1
 
             // Задача 6
             {
-                Console.WriteLine("введите число:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int result = lab.Abc(x);
 
-                Console.WriteLine("результат");
+                Console.WriteLine("результат:");
                 Console.WriteLine(result);
             }
 
             // Задача 7
             {
-                Console.WriteLine("введите число:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 bool result = lab.Is35(x);
 
@@ -94,10 +144,28 @@ namespace Lab1
 
             // Задача 8
             {
-                Console.WriteLine("введите числа:");
-                int x = int.Parse(Console.ReadLine());
-                int y = int.Parse(Console.ReadLine());
-                int z = int.Parse(Console.ReadLine());
+                Console.WriteLine("введите числа x, y, z:");
+
+                Console.Write("x: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число x: ");
+                }
+
+                Console.Write("y: ");
+                int y;
+                while (!int.TryParse(Console.ReadLine(), out y))
+                {
+                    Console.Write("Ошибка! Введите целое число y: ");
+                }
+
+                Console.Write("z: ");
+                int z;
+                while (!int.TryParse(Console.ReadLine(), out z))
+                {
+                    Console.Write("Ошибка! Введите целое число z: ");
+                }
 
                 int result = lab.Max3(x, y, z);
 
@@ -107,9 +175,21 @@ namespace Lab1
 
             // Задача 9
             {
-                Console.WriteLine("введите числа x,y:");
-                int x = int.Parse(Console.ReadLine());
-                int y = int.Parse(Console.ReadLine());
+                Console.WriteLine("введите числа x, y:");
+
+                Console.Write("x: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число x: ");
+                }
+
+                Console.Write("y: ");
+                int y;
+                while (!int.TryParse(Console.ReadLine(), out y))
+                {
+                    Console.Write("Ошибка! Введите целое число y: ");
+                }
 
                 int result = lab.Sum2(x, y);
 
@@ -119,19 +199,27 @@ namespace Lab1
 
             // Задача 10
             {
-                Console.WriteLine("введите номер дня недели (1-7)");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите номер дня недели (1-7): ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 string result = lab.Day(x);
 
-                Console.WriteLine("результат");
+                Console.WriteLine("результат:");
                 Console.WriteLine(result);
             }
 
             // Задача 11
             {
-                Console.WriteLine("введите число:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 string result = lab.ListNums(x);
 
@@ -141,8 +229,12 @@ namespace Lab1
 
             // Задача 12
             {
-                Console.WriteLine("введите число:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 string result = lab.Chet(x);
 
@@ -152,8 +244,12 @@ namespace Lab1
 
             // Задача 13
             {
-                Console.WriteLine("введите число:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int result = lab.NumLen(x);
 
@@ -163,8 +259,12 @@ namespace Lab1
 
             // Задача 14
             {
-                Console.WriteLine("введите размер квадрата:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите размер квадрата: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 Console.WriteLine("результат:");
                 lab.Square(x);
@@ -172,8 +272,12 @@ namespace Lab1
 
             // Задача 15
             {
-                Console.WriteLine("введите высоту треугольника:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите высоту треугольника: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 Console.WriteLine("результат:");
                 lab.RightTriangle(x);
@@ -181,19 +285,31 @@ namespace Lab1
 
             // Задача 16
             {
-                Console.WriteLine("введите размер массива:");
-                int n = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива: ");
+                int n;
+                while (!int.TryParse(Console.ReadLine(), out n))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] arr = new int[n];
 
                 Console.WriteLine("введите эл-ты массива:");
                 for (int i = 0; i < n; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out arr[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
-                Console.WriteLine("введите число х:");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число х: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число х: ");
+                }
 
                 int result = lab.FindFirst(arr, x);
 
@@ -203,15 +319,23 @@ namespace Lab1
 
             // Задача 17
             {
-                Console.WriteLine("введите размер массива:");
-                int n = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива: ");
+                int n;
+                while (!int.TryParse(Console.ReadLine(), out n))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] arr = new int[n];
 
                 Console.WriteLine("введите элементы массива:");
                 for (int i = 0; i < n; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out arr[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
                 int result = lab.MaxAbs(arr);
@@ -222,91 +346,116 @@ namespace Lab1
 
             // Задача 18
             {
-                Console.WriteLine("введите размер массива arr: ");
-                int n = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива arr: ");
+                int n;
+                while (!int.TryParse(Console.ReadLine(), out n))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] arr = new int[n];
 
-                Console.WriteLine("введите элементы массива arr: ");
+                Console.WriteLine("введите элементы массива arr:");
                 for (int i = 0; i < n; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out arr[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
-                Console.WriteLine("введите размер массива ins: ");
-                int m = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива ins: ");
+                int m;
+                while (!int.TryParse(Console.ReadLine(), out m))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] ins = new int[m];
 
-                Console.WriteLine("введите элементы массива ins: ");
+                Console.WriteLine("введите элементы массива ins:");
                 for (int i = 0; i < m; i++)
                 {
-                    ins[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out ins[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
-                Console.WriteLine("введите позицию pos: ");
-                int pos = int.Parse(Console.ReadLine());
+                Console.Write("введите позицию pos: ");
+                int pos;
+                while (!int.TryParse(Console.ReadLine(), out pos))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] result = lab.Add(arr, ins, pos);
 
                 Console.WriteLine("результат:");
-                for (int i = 0; i < result.Length; i++)
-                {
-                    Console.Write(result[i] + " ");
-                }
-
-                Console.WriteLine();
+                Console.WriteLine($"[{string.Join(", ", result)}]");
             }
 
             // Задача 19
             {
-                Console.WriteLine("введите размер массива: ");
-                int n = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива: ");
+                int n;
+                while (!int.TryParse(Console.ReadLine(), out n))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] arr = new int[n];
 
-                Console.WriteLine("введите элементы массива: ");
+                Console.WriteLine("введите элементы массива:");
                 for (int i = 0; i < n; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out arr[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
                 int[] result = lab.ReverseBack(arr);
 
                 Console.WriteLine("результат:");
-                for (int i = 0; i < result.Length; i++)
-                {
-                    Console.Write(result[i] + " ");
-                }
-
-                Console.WriteLine();
+                Console.WriteLine($"[{string.Join(", ", result)}]");
             }
 
             // Задача 20
             {
-                Console.WriteLine("введите размер массива: ");
-                int n = int.Parse(Console.ReadLine());
+                Console.Write("введите размер массива: ");
+                int n;
+                while (!int.TryParse(Console.ReadLine(), out n))
+                {
+                    Console.Write("Ошибка! Введите целое число: ");
+                }
 
                 int[] arr = new int[n];
 
-                Console.WriteLine("введите элементы массива: ");
+                Console.WriteLine("введите элементы массива:");
                 for (int i = 0; i < n; i++)
                 {
-                    arr[i] = int.Parse(Console.ReadLine());
+                    Console.Write($"[{i}]: ");
+                    while (!int.TryParse(Console.ReadLine(), out arr[i]))
+                    {
+                        Console.Write($"Ошибка! Введите целое число для [{i}]: ");
+                    }
                 }
 
-                Console.WriteLine("введите число x: ");
-                int x = int.Parse(Console.ReadLine());
+                Console.Write("введите число x: ");
+                int x;
+                while (!int.TryParse(Console.ReadLine(), out x))
+                {
+                    Console.Write("Ошибка! Введите целое число x: ");
+                }
 
                 int[] result = lab.FindAll(arr, x);
 
                 Console.WriteLine("результат:");
-                for (int i = 0; i < result.Length; i++)
-                {
-                    Console.Write(result[i] + " ");
-                }
-
-                Console.WriteLine();
+                Console.WriteLine($"[{string.Join(", ", result)}]");
             }
         }
     }
